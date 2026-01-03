@@ -69,8 +69,10 @@ Singleton Pattern
 IdGenerator for unique ID creation
 
  Project Structure
+## 📂 Project Structure
+
+```text
 com.airtribe.meditrack
-│
 ├── Main.java
 │
 ├── constants
@@ -117,6 +119,7 @@ com.airtribe.meditrack
 └── docs
     ├── Setup_Instructions.md
     └── JVM_Report.md
+
 
  Technologies Used
 
